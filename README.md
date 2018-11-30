@@ -5,4 +5,4 @@ This is the second Android project in Kotlin, based on [**Developing Android App
 
 ## Screenshots
 
-![AboutMe  Phone](https://raw.githubusercontent.com/SamuelaAnastasi/AboutMe/master/previews/preview.png)
+![AboutMe  Phone](https://raw.githubusercontent.com/SamuelaAnastasi/AboutMe/master/previews/preview.jpg)
