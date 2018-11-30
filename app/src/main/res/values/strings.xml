@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Samuela Anastasi</string>
+    <string name="bio">Curabitur molestie ipsum molestie massa aliquam rutrum. Morbi vitae magna nibh. Integer facilisis fermentum neque nec tincidunt. Praesent sed felis sollicitudin, auctor mi sit amet, convallis dolor. Sed euismod ornare velit, ac bibendum sapien consectetur eget. Duis id condimentum dolor. Maecenas a ultrices turpis. Donec at mi pellentesque, convallis nisl sed, imperdiet nibh. \n\nVestibulum egestas turpis non mattis aliquam. Vivamus hendrerit interdum nulla et semper. Aliquam erat volutpat. Mauris dictum elementum elit, at fringilla odio porttitor id. Mauris porta tellus ut accumsan dictum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed elementum ante ut mi elementum auctor.\n\n Duis at vehicula justo. Mauris ullamcorper scelerisque justo euismod volutpat. Proin in elit commodo, egestas turpis in, malesuada odio. Phasellus fermentum, lorem ac fringilla suscipit, metus nulla iaculis lorem, in porttitor arcu nisl nec purus. Praesent ut ornare tellus. Pellentesque sit amet lacus quis nunc ultrices ullamcorper.</string>
+    <string name="button_done">Done</string>
+    <string name="nickname_hint">What is your nickname</string>
+</resources>
